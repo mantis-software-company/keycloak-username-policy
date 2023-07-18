@@ -55,7 +55,7 @@
 
     <groupId>tr.com.mantis.keycloak</groupId>
     <artifactId>keycloak-username-policy</artifactId>
-    <version>16.1.1</version>
+    <version>22.0.1</version>
     <packaging>jar</packaging>
 
     <dependencies>
